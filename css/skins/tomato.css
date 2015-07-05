@@ -1,0 +1,159 @@
+body {
+    color: #222;
+    letter-spacing: 1px;
+}
+
+:not(#wpadmin) a {
+    color: #FF6347;
+    text-decoration: none;
+}
+
+p,
+body .main_footer,
+.s_about li {
+    color: #888;
+}
+
+.color_element {
+    color: #FF6347;
+}
+
+.color_bg {
+    background-color: #FF6347;
+}
+
+.bg_light {
+    background-color: #FAFAFA;
+}
+
+.bg_dark {
+    background-color: #222;
+    color: #ffffff;
+}
+
+.bg_dark .s_descr::after {
+    background-color: #fff;
+}
+
+.bg_dark a {
+    color: #fff;
+}
+
+.color_border {
+    border-color: #FF6347;
+}
+
+.main_color_bg {
+    background-color: #222;
+}
+
+.toggle_mnu {
+    background-color: #222;
+}
+
+.top_mnu a:hover {
+    color: #FF6347;
+}
+
+.top_mnu a {
+    color: #fff;
+    letter-spacing: 4px;
+}
+
+.top_text p {
+    color: #FAFAFA;
+    letter-spacing: 5px;
+}
+
+.personal_header {
+    letter-spacing: 2px;
+}
+
+.s_descr {
+    letter-spacing: 5px;
+}
+
+.s_descr::after {
+    background-color: #222;
+}
+
+section h3 {
+    letter-spacing: 3px;
+    color: #888;
+}
+
+.s_about p:nth-child(even) {
+    color: #FF6347;
+}
+
+.resume_container h3 {
+    color: #222;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.resume_container .left .resume_description strong {
+    margin-left: 10px;
+}
+
+.resume_container .right .resume_description strong {
+    margin-left: 10px;
+}
+
+.resume_item .year {
+    background-color: #FF6347;
+}
+
+.resume_item .resume_description {
+    letter-spacing: 1px;
+}
+
+.resume_item h3 {
+    letter-spacing: 1px;
+}
+
+.s_portfolio li {
+    color: #888;
+    letter-spacing: 2px;
+}
+
+.s_portfolio li.active {
+    color: #fff;
+    border-bottom: 1px solid #FF6347;
+}
+
+.portfolio_item .port_item_cont a {
+    border-color: #FF6347;
+    color: #FF6347;
+}
+
+.contacts_icon {
+    color: #FF6347;
+}
+
+.text_danger {
+    color: #FF6347;
+}
+
+form input:focus,
+form textarea:focus {
+    border: 1px solid #FF6347;
+}
+
+form input,
+form textarea {
+    letter-spacing: 2px;
+}
+
+form button {
+    background-color: #FF6347;
+    letter-spacing: 2px;
+}
+
+form .form_group {
+    letter-spacing: 2px;
+    color: #888;
+}
+
+/*# sourceMappingURL=tomato.css.map */

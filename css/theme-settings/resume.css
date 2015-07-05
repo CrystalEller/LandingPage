@@ -1,0 +1,55 @@
+.sub-section {
+    padding: 10px;
+    background-color: white;
+}
+
+.sub-section.work {
+    background-clip: padding-box;
+    border-right: 20px solid transparent;
+}
+
+.sub-section.stud {
+    background-clip: padding-box;
+    border-left: 20px solid transparent;
+}
+
+.descr input {
+    width: 49%;
+}
+
+.sub-section input,
+textarea {
+    width: 100%;
+}
+
+.sub-section .row {
+    margin-bottom: 15px;
+}
+
+.wrap {
+    margin-right: 27px;
+}
+
+.main-info {
+    margin-bottom: 20px;
+}
+
+.sub-section h4 {
+    margin: 4px 0;
+    font-size: 1.1em;
+}
+
+.sub-section .chapter {
+    margin-top: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.sub-section .sub-section-name input {
+    height: 35px;
+    font-size: 1.5em;
+}
+
+.sub-section .actions .remove-chapter,
+.add-new-chapter {
+    display: inline-block;
+}
